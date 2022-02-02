@@ -1,0 +1,19 @@
+h1 {
+
+  text-shadow: 2px 2px 5px red;
+  font-size: 100px;
+  font-family: Lucida Handwriting;
+  animation-timing-function: linear;
+
+}
+
+div {
+   font-family: Lucida Handwriting;
+   background-color: lightblue;
+
+}
+p {
+  font-family: Lucida Handwriting;
+  font-size: 30px;
+
+}
